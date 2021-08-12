@@ -3,6 +3,24 @@
    "message": "Hai there is new update for this app please download!",
    "redirectUrl": "",
    "moreApps": [
+      {
+         "title": "Pj Super heroes coloring",
+         "description": "Best Pj Super heroes coloring book",
+         "thumb": "https://play-lh.googleusercontent.com/09xDa8AsgF_DD6211YfeTkeuLM9oLr78SHTVME2_KcyGp15ZYdr1MYkoWyaB3PFeyamm=s180-rw",
+         "url": "https://play.google.com/store/apps/details?id=com.pjcoloringheroes.superheromask"
+      },
+      {
+         "title": "sans under coloring tales book games",
+         "description": "Best sans under coloring tales book games",
+         "thumb": "https://play-lh.googleusercontent.com/02PmNq00Q-hmv4DlaNkL4Ts2do4C9MD4uyaLDJZB4wV0SOCXFvNivi90FusFus_qO2aS=s180-rw",
+         "url": "https://play.google.com/store/apps/details?id=com.undersanscoloring.bookdrawing"
+      },
+      {
+         "title": "Zig Sharko Cartoon Coloring Game",
+         "description": "NEW Zig Sharko Cartoon Coloring Game",
+         "thumb": "https://play-lh.googleusercontent.com/lusMpeoKvmWBE3P8Nh3rS3lFtRjflsmbyx2J0QbW5_vT1QdBEWdBW0RLB0E3tChxKQU=s180-rw",
+         "url": "https://play.google.com/store/apps/details?id=com.zigcoloring.andsharkohero"
+      }
       
    ]
 }
